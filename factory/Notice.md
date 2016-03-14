@@ -11,7 +11,7 @@ For example, we can easily change PC class implementation because client program
 1. java.util.Calendar, ResourceBundle and NumberFormat getInstance() methods uses Factory pattern.
 2. valueOf() method in wrapper classes like Boolean, Integer etc.
   
-  
+---
   
 **Benefits of Abstract Factory Pattern**  
 
